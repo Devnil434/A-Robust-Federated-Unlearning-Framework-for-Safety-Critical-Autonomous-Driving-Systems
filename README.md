@@ -15,6 +15,21 @@ The framework integrates:
 
 ---
 
+# 🎉 Publication Achievement
+
+This work has been tentatively accepted as a **Full Paper** for oral presentation at:
+
+## 📍 COMSYS 2026
+International Conference on Communication Systems and Networks
+
+📚 Planned for publication in:
+**Springer Lecture Notes in Networks and Systems (LNNS)**
+
+---
+
+> Paper Title:  
+> **UrbanShield-HFL: Trust-Aware Byzantine-Resilient Hierarchical Federated Learning for Secure Urban IoT Ecosystems**
+
 # 🚀 Key Features
 
 ✅ Hierarchical Federated Learning  
